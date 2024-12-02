@@ -2,7 +2,6 @@
 A Java-based tool for downloading solar drawings from the [Solar Influences Data Analysis Center (SIDC)](https://www.sidc.be/) website.
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
-![License](https://img.shields.io/github/license/Kermut572/SIDCDownloaderJava)
 ![Release](https://img.shields.io/github/v/release/Kermut572/SIDCDownloaderJava)
 
 ## Description
